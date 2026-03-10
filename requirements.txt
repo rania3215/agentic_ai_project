@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+ddgs
+tensorflow
+numpy
+sumy
+transformers
+langchain-community
+langchain
+huggingface_hub
+faiss-cpu
+pytest
+sklearn
